@@ -6,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=lagensha&label=Profile%20views&color=6366f1&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-6366f1?style=flat" alt="focus" />
   <img src="https://img.shields.io/badge/From-Sri%20Lanka-blue?style=flat" alt="country" />
+  <img src="https://img.shields.io/badge/Contributions-210-brightgreen?style=flat&logo=github" alt="210 contributions" />
 </p>
 
 <p align="center">
@@ -18,6 +19,7 @@
 
 - 🌱 Currently learning **Java, JavaScript, Spring Boot, JavaFX, HTML, CSS & DBMS**
 - 💼 Open to collaborating on exciting projects
+- 🟩 Made **210 GitHub contributions** and counting!
 - 📫 Reach me at **lagensharupasinghe47@gmail.com**
 - ⚡ Fun fact: I love building things from scratch!
 
